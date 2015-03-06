@@ -1,0 +1,15 @@
+﻿{
+  "name": "ccap",
+  "version": "0.0.0",
+  "description": "ccap",
+  "main": "app.js",
+  "author": {
+    "name": "Administrator",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "4.10.2",
+    "underscore": "1.7.0",
+    "ccap":"*"
+  }
+}
